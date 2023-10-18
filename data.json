@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "name": "fgsfads",
+      "mobile": "6543221324",
+      "email": "dsafsdscf@gmail.com",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "mobile": 55555
+    }
+  ]
+}
